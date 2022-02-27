@@ -21,7 +21,7 @@ body{
 
     .toggle-button{
         color: black;
-        position: absolute;
+        position: absolute;// removes from normal page flow
         top: .75rem;
         right: 1rem;
         display: none;
@@ -38,7 +38,7 @@ body{
                 text-decoration: none;
                 color: black;
                 padding: 1rem;
-                display: block;
+                display: block;//?
             }
         }
     }
